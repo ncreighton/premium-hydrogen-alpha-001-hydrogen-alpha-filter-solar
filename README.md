@@ -1,0 +1,2 @@
+# premium-hydrogen-alpha-001-hydrogen-alpha-filter-solar
+Tired of endless solar data that never becomes anything you can touch or share? Transform your hydrogen-alpha observations into tangible art with a structured workshop that bridges science and craft.  The Hydrogen Alpha Filter &amp; Solar Craft Workshop is the only Notion template that combines a precise filter setup and data capture workflow with a co
